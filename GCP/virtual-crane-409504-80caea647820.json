@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "virtual-crane-409504",
+  "private_key_id": "80caea647820a4617cd2d68c35c15f2491cb8a36",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCiPt94B1Nk9mZO\nLxgF4htdbWLjyMnaPG4WQ8iYRo+NZBuUmfGeCmFgmLitPJ5/MsOGjbw2IiO1AlCy\nEBuWLVQPvwUb9rOk87TEvfYz5e4aFi3qwF1JIyZAEmd+7WECCV8xpo/9gPg+uaE+\nFZ0woZ0krYsfcvoO7Mmsr2qG7VI6eXHnI0eJpXHPaJ6im0lpEBJs4L/dN2pVXEwx\nuWTsplF+R1hONT0rWWKQoA/8UMG+dYssDwHMadyi97irG84J79AP3JTs8FUPkLVN\np31u8Cj9Ydumh6D4AZcFr7ArrC47vRfqNvwwQsmaWKHyp6mtMjfgrJivZm2vjv02\nWMu5bg/lAgMBAAECggEAARsUmCjUn1eJPaHXNBMPxK8+K/dDs5e92FZV7lPCHrXp\nSjX9DkAGhzYDQYsBjt8LCMZmhf1C6Qo+/+JZjch5TjIrGBRdB77GzfXNe8URaQlw\nVAKY9X/71BahW0ga5SdTMsTD2SJ2jqw34R3HQybsKe0qND4AXkxW2N/JML+P/pNa\nit3jFbHfTTsgvx/Jh4UaP0j2+1I4nw9aRXUeOAKKftKZFLPKuczTlEChzb84wnpf\nYrlv5SJz/ggWTPTZxFhAtiA/2fY0dR0QHMKGVw5KK3CCCLECFZAx/hspHOmQT+HE\nQT6/e1JOmctD1520zHHafoedmupS/49lF6pElctd8QKBgQDMUG/aizjI2xVj58Ts\natI+zePZakuvZzN1Mw0htkwxVWIijbyMQL5qADNIeIV3oq5NUk5g/2JrwTW8ROsq\nM64esc719Thg+LW0lxfDea3vKqOf0m9dzrQ98hIUsWwGk34C22qzyxA9yo+SZ8E8\ntu4iYKfH7KpqYJY2cCGJMH5xXwKBgQDLSglseCUFK3tcl2ERvIrClkT2VTFNrr9i\nYBLZG+87px9XxtlOMGb7AKNiztwxcd0ZTjNINed2t66w6VnfhZ/YgWs+8TDV6alk\nikGIJQqAqjw+MqNHzQ7wl+wATq/JmUzCVCVGce1utwbJHX/JuSPVFuGV/yUjFpRL\nhBlQQSFxOwJ/KYAtODcPUb0umxx444zPJ/KqVX9B4F8WFLhJ8o8U6vBs/pfLtLFx\n/BYOVKomciaZQRt20D0PwNN+Fr/pBKl6tMFpSIyG5yudvRDzwsD0k6AVnGEiPeu+\nsNZ61bk0OCG9dtca1Wpp4iNDBnoMxkhiFpmLexCXjQQRfv1H0pYHGQKBgHKmObRb\n+fz1behlU5BuNg/SMeh/WYQHNtajel3JnF2XPl0Bv5KSR7HtxTe3lIWqQti/urpR\n9E2HAFWz9UTTlrfDHZns6u7pjegu9RB0W3z/BWTKqD2ZT4CvHaF6vzdCZwD99dvJ\n6u9S99e69FPvP18xPV6b+/TTCiWgxan2YYb7AoGAYTr+jfoYp6/GZ/Vr6FbWRDPh\nLcftulmmlS5om0DQjeAdAAV8P2uZBM8jWH5Kdc4QqO7vMOpwIeOPhIznaFsfcIzP\nX6Th909PgNjUayw+oSXP3/mAGSEcJteG+Khm22ZfeaqGFBLNNwJgs9l9FY65KtZr\nFiYVZuR6XV4nsdYgIDo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-test-account@virtual-crane-409504.iam.gserviceaccount.com",
+  "client_id": "110854529356258642014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-test-account%40virtual-crane-409504.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
